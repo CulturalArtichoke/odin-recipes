@@ -1,9 +1,9 @@
-h1 #odinlogo{
+h1 #odinlogo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-  }
+}
 
 .recipes-container {
     display:flex;
@@ -56,9 +56,6 @@ a:hover {
     margin-left: 10px;
     max-width: 90%;
 }
-
-
-
 
 button {
     display: block;
