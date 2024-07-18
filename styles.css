@@ -1,0 +1,72 @@
+h1 #odinlogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+.recipes-container {
+    display:flex;
+    justify-content: space-around;
+}
+
+.recipe-card {
+    text-align: center;
+    font-size: smaller;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#thumb {
+    max-width: 250px;
+    height: auto;
+    padding: 10px;
+    border-radius: 15%;
+}
+
+a:hover {
+    opacity: 50%;
+}
+
+.recipe-container {
+    display: block;
+    background-color:antiquewhite;
+    max-width: 40%;
+    height: 600px;
+    border-radius:2%;
+    margin: auto;
+    margin-top: 40px;
+    overflow-y: scroll;
+}
+
+.recipe-thumb img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    
+}
+
+.recipe-thumb h1 {
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+.recipe-info {
+    margin-left: 10px;
+}
+
+#directions { 
+    max-width: 90%;
+}
+
+
+button {
+    display: block;
+    margin: 0 auto;
+
+    
+}
+
+
+
